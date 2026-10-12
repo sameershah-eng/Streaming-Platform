@@ -1,0 +1,6 @@
+{
+  "name": "AuraStream — Premium Real-Time Consultation Platform",
+  "description": "High-fidelity real-time conversational streaming, consultation room with WebRTC, transparent billing, and Supabase & Stripe Connect architecture.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
